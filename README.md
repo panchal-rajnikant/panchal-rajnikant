@@ -12,8 +12,8 @@ Hi, I'm Rajnikant ​✨
 
 🌱 Currently expanding my skills in Python and AI Engineering.
 
-### Connect with me
+###  🤝 Connect with me
 
-[LinkedIn](www.linkedin.com/in/rajnikantpanchal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajnikant%20Panchal-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnikantpanchal/)
 
 Feel free to contact me at panchalrajnikant42@gmail.com
