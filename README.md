@@ -14,4 +14,5 @@ Hi, I'm Rajnikant ​✨
 
 ### Connect with me
 
-([https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/rajnikantpanchal)
+[LinkedIn](www.linkedin.com/in/rajnikantpanchal)
+Feel free to contact me at panchalrajnikant42@gmail.com
