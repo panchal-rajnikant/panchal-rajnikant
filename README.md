@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Rajnikant ​✨
 
-<!--
-**panchal-rajnikant/panchal-rajnikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​
+### About Me
+💻 Software Engineer at @HCLSoftware.
 
-Here are some ideas to get you started:
+🛠️ Working with Angular, Node.js, TypeScript, JavaScript, MongoDB, and Express.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Experienced across IoT, Healthcare, and E-commerce domains.
+
+🧠 Interested in System Design, Full-Stack Engineering, and building practical software solutions.
+
+🌱 Currently expanding my skills in Python and AI Engineering.
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/rajnikantpanchal)
