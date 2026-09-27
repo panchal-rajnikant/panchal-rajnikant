@@ -1,7 +1,6 @@
 Hi, I'm Rajnikant ​✨
 
-​
-### About Me
+​### About Me
 💻 Software Engineer at @HCLSoftware.
 
 🛠️ Working with Angular, Node.js, TypeScript, JavaScript, MongoDB, and Express.js.
